@@ -1,4 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 # Food Ordering Project
 
@@ -29,12 +28,6 @@ In addition to the core features taught by the course instructors, I added some 
 - Improved database queries for more efficient data processing with MongoDB.
 - Implemented the "Order Customization" feature, allowing users to personalize their orders.
 
-## How to Use?
-
-1. Clone the project: `git clone https://github.com/your_username/food-ordering-project.git`
-2. Install the necessary dependencies: `npm install`
-3. Start the project: `npm run dev`
-4. View the project in your browser at `http://localhost:3000`.
 
 ## Project Screenshot
 
@@ -46,8 +39,6 @@ In addition to the core features taught by the course instructors, I added some 
 
 ![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/8fef5351-16cc-44fb-8f83-307575aecfd8)
 
-![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/42f3646f-6b5f-472d-90b1-42937fd102cf)
-
 ![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/35bb7f17-4e1f-474c-9e4c-c00e98529b22)
 
 ![image](https://github.com/eminkmru/food-ordering-with-NextJS/assets/89755021/cbdcc75b-bfce-4d91-aea2-fd66abe41c5d)
@@ -57,7 +48,6 @@ In addition to the core features taught by the course instructors, I added some 
 
 ## Acknowledgments
 
-To explore the project and learn more, visit the GitHub page: [GitHub Project Page](https://github.com/your_username/food-ordering-project)
-
 Best regards,
-Emin Kumru
+
+Vikas Gurjar
